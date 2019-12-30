@@ -1,0 +1,25 @@
+{"meta": {"code": 200, "requestId": "5e0a54f9542890001bafa384"},
+  venue_id = '3fd66200f964a520f4e41ee3' 
+  url = 'https://api.foursquare.com/v2/venues/{}?client_id={}&client_secret={}&v={}'.format(venue_id, CLIENT_ID, CLIENT_SECRET, VERSION)
+
+ "response": {"tips": {"count": 17,
+   "items": [{"id": "5ab1cb46c9a517174651d3fe",
+     "createdAt": 1521601350,
+     "text": "A+ Italian food! Trust me on this: my mom’s side of the family is 100% Italian. I was born and bred to know good pasta when I see it, and Ecco is one of my all-time NYC favorites",
+     "type": "user",
+     "canonicalUrl": "https://foursquare.com/item/5ab1cb46c9a517174651d3fe",
+     "lang": "en",
+     "likes": {"count": 0, "groups": []},
+     "logView": "True",
+     "agreeCount": 4,
+     "disagreeCount": 0,
+     "lastVoteText": "Upvoted 2 weeks ago",
+     "lastUpvoteTimestamp": 1576365433,
+     "todo": {"count": 0},
+     "user": {"id": "0",
+      "firstName": "Nick",
+      "lastName": "E",
+      "gender": "male",
+      "photo": {"prefix": "https://fastly.4sqi.net/img/user/",
+       "suffix": "/blank_boy.png"}},
+     "authorInteractionType": "liked"}]}}}
