@@ -1,7 +1,4 @@
 {"meta": {"code": 200, "requestId": "5e0a54f9542890001bafa384"},
-  venue_id = '3fd66200f964a520f4e41ee3' 
-  url = 'https://api.foursquare.com/v2/venues/{}?client_id={}&client_secret={}&v={}'.format(venue_id, CLIENT_ID, CLIENT_SECRET, VERSION)
-
  "response": {"tips": {"count": 17,
    "items": [{"id": "5ab1cb46c9a517174651d3fe",
      "createdAt": 1521601350,
