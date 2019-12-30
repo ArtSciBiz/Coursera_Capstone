@@ -1,0 +1,43 @@
+{
+    "meta": {
+        "code": 200, "requestId": "5e0a4dd17828ae001b4926d8"
+    },
+    "response": {
+        "user" : {
+            "id":"12345678",
+            "firstName":"Murali",
+            "lastName":"Behara",        
+            "homeCity":"New York, Kings County, NY",        
+            "photo":{
+                "prefix":"https:\/\/fastly.4sqi.net\/img\/user\/","suffix":"\/QLXIOAZK4D1ODQED.jpg"},
+            "gender":"none",
+            "relationship":"self",
+            "contact":{
+                "phone":"1112223333",
+                "email":"rahrum@yahoo.com",
+                "twitter":"rahrum",
+                "facebook":"987654321",
+                "formattedPhone":"(111) 222-3333"},
+            "roles":[],
+            "lists":{
+                "groups":[{
+                "type":"created",
+                "count":2,
+                "items":[]}]},
+            "location":{
+            "lat":42.69807221162073,
+            "lng":-73.84406868393056,
+            "location":"Albany, NY",
+            "countryCode":"US"},
+            "bio":"",
+            "locale":"en_US",
+            "canonicalUrl":"https:\/\/foursquare.com\/user\/12345678",
+            "canonicalPath":"\/rahrum",
+            "hasMobileClientConsumer":false,
+            "hasSwarm":false,
+            "isManager":false,
+            "tips":{
+            "count":9},
+            "isAnonymous":false}
+    }
+}
