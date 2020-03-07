@@ -1,4 +1,4 @@
-# Coursera_Capstone
+# Capstone Project 
 This is an Applied Data Science Capstone Project Notebook. For questions send a note to mbehara@AdelleTech.com 
 
 #### Regarding the data files here: 
